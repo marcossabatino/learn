@@ -1,3 +1,4 @@
 REPO GIT
 README of Repositorie Git
-Update from githu
+Update from github
+Update from desktop
